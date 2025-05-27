@@ -1,0 +1,54 @@
+From: support@paypall.com
+To: you@example.com
+Subject: Urgent: Your PayPal Account Has Been Suspended!
+
+Dear User,
+
+We detected suspicious activity on your PayPal account. To protect your funds, your account has been temporarily suspended.
+
+To restore access, please verify your account by clicking the link below:
+https://paypall.com.verify-login-security-update.com
+
+Failure to act within 24 hours will result in permanent account suspension.
+
+Thank you,
+PayPal Support Team
+
+Attachment: Account_Verification_Form.exe
+🛑 Phishing Email Analysis Report
+
+📧 Sample Email Summary
+
+From: support@paypall.com  
+To: you@example.com  
+Subject: Urgent: Your PayPal Account Has Been Suspended!  
+Attachment: Account_Verification_Form.exe  
+Suspicious Link: https://paypall.com.verify-login-security-update.com
+
+
+------------------------------------------------------------------------------------------------------------------------------
+🕵️‍♂️ Phishing Indicators Found
+
+| No. | Indicator | Description |
+|-----|-----------|-------------|
+| 1. | Spoofed Email Address** | The sender uses `support@paypall.com` (note: *Paypall* with double 'l') – a fake domain mimicking PayPal. |
+| 2. | Suspicious URL** | Link: `https://paypall.com.verify-login-security-update.com` is not an official PayPal domain. It’s a long, misleading subdomain. |
+| 3. | Urgent Language** | Uses phrases like *"Failure to act within 24 hours..."* to create panic and force action. |
+| 4. | Attachment Executable File** | `Account_Verification_Form.exe` is a potentially malicious executable file. Genuine companies never send `.exe` files. |
+| 5. | Spelling Mistake** | “spe ling” error in general body tone (typical in phishing attempts). |
+| 6. | Impersonal Greeting** | Uses "Dear User" instead of your name – shows it's generic spam/phish. |
+| 7. | Threatening Consequences** | Claims your account will be "permanently suspended" – classic scare tactic. |
+| 8. | Mismatch in Display vs Real Link** | Hovering reveals actual domain is different from what appears to be shown. |
+
+---
+
+✅ Conclusion
+
+This email shows **multiple strong indicators of phishing**, such as:
+- Spoofed sender identity
+- Malicious URL
+- Executable attachment
+- Urgent/threatening tone
+
+⚠️ **Action: DO NOT click links or download attachments. Report & delete such emails.**
+
